@@ -1,4 +1,13 @@
 @import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* استایل‌های دلخواه */
+body {
+  font-family: 'Vazir', sans-serif; /* فونت فارسی پیشنهادی */
+}
+
 
 :root {
   --background: #ffffff;
